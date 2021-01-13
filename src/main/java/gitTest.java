@@ -8,5 +8,6 @@ public class gitTest {
         System.out.println("22");
         System.out.println("44444");
         String s = "55";
+        System.out.println("4444");
     }
 }
