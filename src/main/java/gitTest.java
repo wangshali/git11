@@ -7,5 +7,6 @@ public class gitTest {
         System.out.println("1111");
         System.out.println("22");
         System.out.println("44444");
+        String s = "55";
     }
 }
